@@ -1,0 +1,227 @@
+                         S T I C K Y   W I C K E T  version 2.25 (registered)
+ 
+  CONTENTS
+
+  1) Intoduction
+  2) About the game
+  3) Hardware requirements
+  4) What should be on this disk
+  5) Features
+  6) Starting up
+  7) The Game - 'Sticky Wicket'
+     i) Menu
+    ii) Team Selection
+   iii) Playing 'Sticky Wicket'
+    iv) If you elect to bat or are put into bat
+     v) If you elect to field or are put into field
+    vi) The 'Sticky Cup'
+  8) Changing the speed
+  9) Information on changing team and player names
+
+
+  1) Intoduction
+  
+    This is the registered version of the shareware game 'Sticky Wicket'
+    and may not be copied without the authors prior consent. The additional
+    features to the shareware version that are in this registered version
+    are: unlimited 8 week seasons; the 'Sticky' Cup (played over 3 rounds at
+    the end of each season); seasonal updating of career averages and your
+    career records; and a save facility.
+				       
+
+  2) About the game
+ 
+   'Sticky Wicket' is the ultimate cricket game for the P.C. It combines
+   the art of captaincy with week to week action of playing. Your
+   objective is to win the league and 'Sticky' cup. Your predecessor has
+   left, despondent with the teams poor run of recent results. By selecting
+   the team, choosing field placings, who bowls the crucial overs, where
+   everyone bats and even when a player must run you aim to return the team
+   to its former glory. Your success at doing so will be compared to the
+   greats  e.g W.G Grace , M.Brearly in the hall of fame. Hence the term
+   'Sticky Wicket' hence the situaton you face where winning is the difference
+   between glory AND Failure!
+
+
+  3) Hardware Requirements
+
+   'Sticky Wicket' should work on any IBM compatible PC with EGA (with at least
+   64k screen memory) or better graphics card and at least 256K of RAM. The
+   registered version can be run from a single 360K floppy drive.
+
+
+  4) What should be on this disk
+
+   The following files should appear on your disk:
+         SW      .EXE    - This will start 'Sticky Wicket'
+         STICKY  .DOC    - On-disk Documentation
+         WICKET  .DAT    - Data file
+         STWICKET.DAT    - Data file (Saved position)
+         TEAM    .DAT    - Data file containing team names
+
+
+  5) Features
+ 
+   * Database of 128 players, 8 teams each with career figures (updated
+     seasonally) / Ability / Form / Fitness ratings
+   * Seasonal and Career Averages
+   * Seven 40-over Sunday League matches including league table, fixture
+     list and full results service every week
+   * 40 over 'Sticky' cup competition
+   * Edited highlights of the game including all the action shots, L.B.W and
+     other dismissals
+   * Umpire decisions in response to appeals
+   * Team Selection
+   * 5 different field settings
+   * Save facility - stores averages and mid-season positions
+   * Career page
+
+  
+  6) Starting up
+
+   To start 'Sticky Wicket' type 'SW' at the DOS prompt.
+   All newcomers to the game should input their name and press 'enter'. Then
+   using the 'up' and 'down' cursor keys change the highlighted team to the
+   one that you wish to control and press 'space bar'. If you wish to continue
+   from where you left off in a previous season press 'enter' key without
+   inputting your name.
+
+
+  7) The Game - 'Sticky Wicket'
+
+  i)  Menu
+   By pressing any number from 1-8 you will be able to access the option you
+   want. The fixture list and league table are self-explanatory , press any key
+   to return to the menu. If you wish to view career or seasonal averages use
+   the cursor keys and press 'enter' to select the team that is highlighted.
+   The batting averages for the top 16 players are shown. By pressing any key
+   the bowling averages are shown. Any player that has not played (ie batted or
+   bowled) is not shown. This is why the seasonal averages cannot be accessed
+   until at least one game has been played. Scores in the 'Sticky Cup' are
+   not included in the seasonal averages. To return to the menu just select
+   End Viewing Averages and press space.
+
+
+  ii) Team selection
+  
+    Naturally for those who wish to get 'stuck in' the first 11 players will be
+    automatically selected. However, you can select eleven of your choice by
+    pressing 2 in the main menu. The criteria for selection is that you can
+    only have 1 wicket keeper, 5 bowlers and 5 other players. Until this is
+    achieved you will be unable to return to the main menu by pressing 'e'.
+
+    Wicket Keepers - There are 2 wicket keepers per team. One must play in
+    that role but there is nothing to stop you playing the other as a
+    batsman. To select, use the highlight bar to move to the player by using
+    the cursor keys and press 'w'. The player name should become green.
+
+    Bowlers - There are approx. 8 bowlers per team. To select use the
+    highlight to move to the player and press 'b'. The computer will not allow
+    a bowler with 0 (Zero) Bowling ability to be selected.
+
+    Batsmen - Use highlight bar as above and press 'o' to select any player
+    for the sole purpose of batting.
+  
+    The following qualities (On a scale of zero to ten) act as a guide to
+    which players should be selected and gives a brief statement of their
+    preferred positions.
+
+    Fitness - This declines rapidly for bowlers, less so for batsmen. To
+    counter this you should make regular alterations to the side enabling the
+    players to recouperate. Over-use of players makes them become stale and
+    will affect their performance (ie a player of 1 (one) fitness is useless.)
+
+    Ability - This changes from season to season unlike fitness which varies
+    every game. It is determined by the player's personnal success over the
+    season. Bowling and Batting figures are given. The higher the value the
+    more likely he is to be successful when wielding the bat or bowling,
+    fitness permitting.
+
+    Form - This changes from match to match and is an indication of the players
+    current form. High values will mean he is very confident and has been
+    successful with the bat or ball. A loss in form may result in poor
+    performances.
+
+
+   iii) Playing 'Sticky Wicket'
+
+    Pressing '1' in the main menu will take you to the next match.
+    The opposition and your teams strengths and weaknesses are compared. If
+    your fitness is significantly low the likelyhood of catches being dropped ,
+    fielder mistakes and a general lethargic performance overall are increased.
+    Alterations should be made when you next retun to the main menu.
+    A coin is tossed and the opposition will inform you of its intention to bat
+    or field. If it wins, press 'space' to continue. If you win use 'b' to bat
+    or 'f' to field.
+
+
+   iv) If you elect or are put into bat
+  
+    Select your two openers. They should be chosen to see off the new ball to
+    enable the middle order to hit out. Openers are specialist batsmen and by
+    looking at player qualities when choosing the team you can see which
+    normally do the job. Enter the batsman number and press return.
+    Edited Highlights will be displayed.... Make sure your finger is poised
+    over the 'r' button. If the ball doesn't cross the boundary as a 4 or 6 it
+    will be fielded by the opposition. By pressing 'r' will enable your batsmen
+    to run, you must decide if it is safe to do so. Failure to keep the score-
+    board ticking over by taking quick runs will reduce the overall team
+    score. However, run outs can be equally disasterous. Even if you are
+    outside the crease there is still a possibility that the opposition fielder
+    will miss the stumps. If a decision is close the umpire will be called
+    upon to adjudicate. Unfortunately this is open to human error and may be
+    dubious, but that's cricket!
+
+
+   v) If you elect to field or are put into field
+  
+    Utilising your bowlers to the optinum performance is an acquired skill.
+    With practise you will discover which can conserve runs and which will take
+    wickets. When in the scorecard (ie at fall of Wicket or at the end of each
+    over) by pressing 'f' you will be able to select from five fields -
+    orthodox, defensive, attacking, highly attacking and unorthodox, each with
+    their own merits. The first 10 overs with the new ball and the last are
+    the most critical. Bowlers are restricted to 8 overs, none of which can be
+    bowled consecutively. If you are unable to select a particular bowler,
+    or the computer automatically selects someone else, this is to enable the
+    above rules for bowling to apply. This can be remedied by trying another
+    bowler who hasn't completed his spell.
+
+    The result of your match will be displayed as will any other results in
+    the week (including high scores and best bowling figures). After seven
+    league matches the final table will be shown. If you fail to achieve a
+    high placing you can remedy this by winning the Quarter-final match for
+    The 'Sticky Wicket' cup and hopefully progress on to the final. On
+    completion of the cup you can have one final glance at the averages. All
+    league and cup wins are recorded for posterity under career records in
+    the menu, as are the successes of your nearest rivals in the Hall of Fame.
+    Will you climb to the heights of W.G Grace ?
+
+ 
+  8) Changing the speed
+
+   The speed at which the game runs should be the same for both fast and slow
+   PC's. However, if you find the actual game is not running at the correct
+   speed, you should try typing the following at the DOS prompt when you next
+   RUN 'Sticky Wicket':
+
+                    SW X  (Where X is a whole number from 1 to 300)
+
+   As a rough guide, a 286-12 machine should run perfectly using
+
+                    SW 14     to begin the program.  
+
+   You may have to play around with finding the best value for your P.C. 
+
+
+  9) Information on changing team and player names
+
+   If you decide that you want to change some of the names you can easily
+   change the data files using a text editor. However, if you do this you must
+   make sure that you have backed up this program in case anything goes wrong.
+   
+
+   Feel free to write in with your comments on 'Sticky Wicket'.
+   
+
+
