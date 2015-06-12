@@ -1,0 +1,529 @@
+
+			S T I C K Y   W I C K E T  v2.52
+ 
+  CONTENTS
+
+  1) Intoduction
+  2) Features
+  3) Copyright
+  4) Disclaimer
+  5) Distribution
+  6) What files should be in this distribution
+  7) Game history - including what's new in this version
+  8) Compatibility
+  9) Installing and running the game
+ 10) The Game - "Sticky Wicket"
+    i) Menu
+   ii) Team Selection
+  iii) Playing Sticky Wicket
+   iv) If you elect to bat or are put into bat
+    v) If you elect to field or are put into field
+   vi) The Sticky Cup
+ 11) Quiting the game
+ 12) Changing the speed
+ 13) Changing the difficultly
+ 14) Troubleshooting / known bugs
+ 15) How to add new teams
+ 16) Information on changing player data
+ 17) Information for registered users
+ 18) World Cup Cricket - another cricket game by Mark Carter
+ 19) The Sticky Wicket & World Cup Cricket website and Yahoo! Group
+ 20) Author contact details
+
+-------------------------------------------------------------------------------
+
+  1) Intoduction
+  --------------  
+   Sticky Wicket is a freeware DOS cricket game for the PC.
+
+   Sticky Wicket is based on one-day matches in both league and cup
+   competitions played between english county teams. This is one of the very
+   few cricket games to combine strategy and statistics with interactive match
+   action. Matches are shown through a birds-eye view of the field where ball
+   movement, fielding and batsmen running can be followed. By careful team
+   selections, choosing field placings, rotating bowlers, changing batting
+   order and deciding when batsmen run, you aim to win the league and cup
+   trophies.
+
+   Sticky Wicket is the first of two cricket games I have written for the PC.
+   The other is called World Cup Cricket and is based on international one-day
+   tournaments.
+
+
+  2) Features
+  ----------- 
+   * Database of 288 players, 18 teams each with career statistics and batting
+     and bowling abilities
+   * 8 teams take part in any season
+   * Possible to add extra teams (up to 36 in total) to the 18 already present
+   * Seasonal and career averages
+   * Unlimited number of seasons
+   * Each season consists of the Sunday League and Sticky Cup competitions
+   * Sunday League consists of seven 40-over matches including league table,
+     fixture list and results service each week
+   * 40 over Sticky Cup competition involving all 8 teams
+   * Edited highlights of the game including action shots, LBWs, run outs etc
+   * Match interactivity - when to run, who to bowl, batting order, field
+     placings etc
+   * Umpire decisions in response to appeals
+   * Team selection - choose 11 from 16 before each match
+   * 5 different built-in field settings
+   * Save / restore facility - up to 8 different save positions
+   * Career page showing your teams records and comparisons with other teams
+   * 2-player matches between any 2 teams of your choice
+
+   Please note:
+   * The squads are accurate as of the end of the 1996 season
+   * The career averages stored in the data files are in fact the final 1996
+     Sunday League averages
+ 
+
+  3) Copyright
+  ------------
+   Sticky Wicket is written and copyright by Mark Carter. No parts of this
+   program may be altered by any means (this includes editing, reprogramming,
+   crunching, resourceing etc.), except archiving.
+
+
+  4) Disclaimer
+  -------------
+   The author is in no way liable for any changes made to any part of the
+   program, or consequences thereof as he is in no way liable for damages or
+   loss of data directly or indirectly caused by this software.
+
+
+  5) Distribution
+  ---------------
+   Profits may not be made by distributing this piece of software - only a
+   nominal fee may be charged to cover postage, packing, materials etc. All
+   files may be copied so long as they are copied in their entirety and are not
+   seperated from each other. The files may be compressed into a .ZIP format (I
+   recommend naming the zip file wcc262.zip) in which case the directory
+   structure should be preserved.
+
+
+  6) What files should be in this distribution
+  --------------------------------------------
+   You should find the following files:
+   [main directory]
+	sw      .bat	- Run this to start the game!
+	sw      .dat	- Data file - general
+	sw      .txt	- Main documentation
+	sw_game .exe	- Part of the actual game engine
+	sw_teams.dat    - Data file - available teams to be used
+	["src\" subdirectory] - Source code
+		sw_game.bas
+		sw_game.mak
+		sw_util.bas
+	["sw_teams\" subdirectory] - Team data files
+		derbyshi.dat
+		durham.dat
+		essex.dat
+		glamorga.dat
+		gloucest.dat
+		hampshir.dat
+		kent.dat
+		lancashi.dat
+		leiceste.dat
+		middlese.dat
+		northamp.dat
+		nottingh.dat
+		somerset.dat
+		surrey.dat
+		sussex.dat
+		warwicks.dat
+		worceste.dat
+		yorkshir.dat
+
+   When you save your position, a file called "SW_SAVES.DAT" is created in the
+   main directory and a subdirectory called "SW_SAVES" is also created. The
+   saved position is stored in the "SW_SAVES\" subdirectory in a file called
+   "SLOTX.SAV" where X is a number from 1 to 8 depending on which slot you
+   used.
+
+
+  7) Game history - including what's new in this version
+  ------------------------------------------------------
+   October 1991		- Version 2.00 
+	* First release into the shareware market
+
+   February 1993	- Version 2.20 
+	* Sorry, forgot to keep track of the changes!
+
+   March 1993		- Version 2.25
+	* Games are now more realistic.  Less likely to get matches with
+	  ridiculously few dismissals/runs etc
+	* A very strange bug where the '8' key on the numeric key pad did not
+	  work has now been located and corrected
+	* A few other bug fixes
+
+   8th April 1995	- Version 2.26
+	* Updated documentation to include e-mail addresses and registration
+	  fees/procedures for overseas users
+
+   15th September 1996	- Version 2.50
+	* New "key file" registration system. See below for more details
+	* New save/restore position page - can now have up to 8 different
+	  saved positions (registered version only)
+	* Improved method for getting game to run at correct speed
+	* New quit facility - ability to quit at ANY moment in the game
+	* Career averages now updated after every match
+	* New option to enable/disable sound
+	* Your team's players are now highlighted in the combined averages
+	* Restructured how the data files are organised. Now its possible to
+	  add new teams (up to 36 in total) to the 18 teams already present
+	* Data files for ALL 18 county teams now included with up-to-date
+	  squads
+	* New disk error handling routines
+	* New page to change which 8 teams are to be used as default
+	  (registered version only)
+	* Cleaned up the entire code - this was the hardest bit!
+	* Improved Career page - the captain comparison is now more variable
+	* Improved the Sticky Cup - can now see the results/fixtures of the
+	  other matches
+	* Opposition now varies its team selection
+	* 2-Player game is now incorporated in the main game. Simply press P
+	  when you select which team to take charge of (registered version
+	  only)
+	* Vaslty improved on-disk documentation - now over twice the size!
+	* A few minor bug fixes
+	* New facility to print registration form within the game (shareware
+	  version only)
+
+   23rd August 2001 	- Version 2.51
+	* Game is now freeware and so a default key file is included in
+          the distribution to unlock all features
+	* Updated documentation with new contact details and removed
+	  references to registration etc
+
+   24th November 2002 	- Version 2.52
+	* Added the source code! (Quick Basic 4.5 compatible)
+	* Removed chunks of redundant code from the program concerning
+	  shareware and key file logic
+	* Removed the key file from the distribution as it is no longer used
+	* Completely reorganised sw.txt into a more logical format.
+	  Ammended contact details, website address and added a link to the
+	  new Yahoo! discussion group. Also added sections on troubleshooting,
+	  compatibility and installation
+	* Improved error handling
+
+
+  8) Compatibility
+  ----------------
+   This game should work on any IBM compatible PC with EGA or better
+   graphics card and at least 512K of RAM. This should be ok for any PC
+   purchased after 1990!
+
+   The game runs fine under all versions of Windows (from 3.x onwards) as well
+   as the later versions of DOS.
+
+
+  9) Installing and running the game
+  ----------------------------------
+   Chances are you will have just unzipped a file called sw252.zip and are
+   ready to run the game straight away.
+
+   If not, then you will need something like WinZip (if running from Windows)
+   or PKUnzip (if running from DOS). Please refer to the relevant documentation
+   to find out how to extract the files from the zip file and remember to
+   preserve the directory structure when extracting.
+
+   It is good to check that when you unzipped the files they appear as
+   described in the "What files should be in this distribution" section in this
+   document. If not, then you will need to fix this!
+
+   To start the game from DOS, change to the directory where sw.bat is
+   stored and then type "sw".
+
+   To start the game from Windows, just double-click on the sw.bat icon.
+
+   You should be greeted by the title page followed by a list of 8 teams.
+   Using the 'up' and 'down' cursor keys change the highlighted team to the one
+   that you wish to control and then press "space". You will then be presented
+   with the Main Menu page.
+
+
+ 10) The Game - "Sticky Wicket"
+ ------------------------------
+   i)  Menu
+    By pressing any number from 1-7 you will be able to access the option you
+    want. The fixture list and league table are self-explanatory , press any
+    key to return to the menu. The averages section begins with a list of the 8
+    teams plus an option to view the top averages combining all teams together.
+    Note, that seasonal averages are not available in the Week 1 because no
+    matches have been played!
+
+  ii) Team selection
+  
+    Naturally for those who wish to get 'stuck in' the first 11 players will be
+    automatically selected. However, you can select eleven of your choice by
+    pressing 2 in the main menu. The criteria for selection is that you can
+    only have 1 wicket keeper, 5 bowlers and 5 other players. Until this is
+    achieved you will be unable to return to the main menu by pressing 'e'.
+
+    Wicket Keepers - There are 2 wicket keepers per team. One must play in
+    that role but there is nothing to stop you playing the other as a
+    batsman. To select, use the highlight bar to move to the player by using
+    the cursor keys and press 'w'. The player name should become green.
+
+    Bowlers - There are approx. 8 bowlers per team. To select use the
+    highlight to move to the player and press 'b'. The computer will not allow
+    a bowler with 0 (Zero) bowling ability to be selected.
+
+    Batsmen - Use highlight bar as above and press 'o' to select any player
+    for the sole purpose of batting.
+  
+    The following qualities (On a scale of zero to ten) act as a guide to
+    which players should be selected and gives a brief statement of their
+    preferred positions.
+
+    Fitness - This declines rapidly for bowlers, less so for batsmen. To
+    counter this you should make regular alterations to the side enabling the
+    players to recouperate. Over-use of players makes them become stale and
+    will affect their performance (ie a player of 1 (one) fitness is useless.)
+
+    Ability - This changes from season to season unlike fitness which varies
+    every game. It is determined by the player's personnal success over the
+    season. Bowling and Batting figures are given. The higher the value the
+    more likely he is to be successful when wielding the bat or bowling,
+    fitness permitting.
+
+    Form - This changes from match to match and is an indication of the players
+    current form. High values will mean he is very confident and has been
+    successful with the bat or ball. A loss in form may result in poor
+    performances.
+
+ iii) Playing Sticky Wicket
+
+    Pressing '1' in the main menu will take you to the next match.
+    The opposition and your teams strengths and weaknesses are compared. If
+    your fitness is significantly low the likelyhood of catches being dropped,
+    fielder mistakes and a general lethargic performance overall are increased.
+    Alterations should be made when you next retun to the main menu.
+    A coin is tossed and the opposition will inform you of its intention to bat
+    or field. If it wins, press 'space' to continue. If you win use 'b' to bat
+    or 'f' to field.
+
+  iv) If you elect or are put into bat
+  
+    Select your two openers. They should be chosen to see off the new ball to
+    enable the middle order to hit out. Openers are specialist batsmen and by
+    looking at player qualities when choosing the team you can see which
+    normally do the job. Enter the batsman number and press return.
+    Edited Highlights will be displayed.... Make sure your finger is poised
+    over the 'r' button. If the ball doesn't cross the boundary as a 4 or 6 it
+    will be fielded by the opposition. By pressing 'r' will enable your batsmen
+    to run, you must decide if it is safe to do so. Failure to keep the score-
+    board ticking over by taking quick runs will reduce the overall team
+    score. However, run outs can be equally disasterous. Even if you are
+    outside the crease there is still a possibility that the opposition fielder
+    will miss the stumps. If a decision is close the umpire will be called
+    upon to adjudicate. Unfortunately this is open to human error and may be
+    dubious, but that's cricket!
+
+
+   v) If you elect to field or are put into field
+  
+    Utilising your bowlers to the optinum performance is an acquired skill.
+    With practise you will discover which can conserve runs and which will take
+    wickets. When in the scorecard (ie at fall of Wicket or at the end of each
+    over) by pressing 'f' you will be able to select from five fields -
+    orthodox, defensive, attacking, highly attacking and unorthodox, each with
+    their own merits. The first 10 overs with the new ball and the last are
+    the most critical. Bowlers are restricted to 8 overs, none of which can be
+    bowled consecutively. If you are unable to select a particular bowler,
+    or the computer automatically selects someone else, this is to enable the
+    above rules for bowling to apply. This can be remedied by trying another
+    bowler who hasn't completed his spell.
+
+    The result of your match will be displayed as will any other results in
+    the week (including high scores and best bowling figures). After seven
+    league matches the final table will be shown.
+
+  vi) The Sticky Cup
+
+    If you are unsuccessful in the league, you can remedy your situation by
+    doing well in the Sticky Wicket cup, hopefully progress on to the final.
+    All 8 teams take part in this tournament which begins at the quarter final
+    stage. Summaries of every match are automatically shown after each round.
+    On completion of the cup you can have one final glance at the averages.
+
+    All league and cup wins are recorded for posterity under career records in
+    the menu, as are the successes of your nearest rivals in the Hall of Fame.
+    Will you climb to the heights of W.G Grace ?
+
+ 
+ 11) Quiting the game
+ --------------------
+   You can exit the game at any time by pressing the function key F9.
+
+
+ 12) Changing the speed
+ ----------------------
+   The speed at which the game runs should be the same for both fast and slow
+   PC's. However, if you wish to make the game faster or slower, you could try 
+   typing the following (instead of just "sw") when you next run the game:
+
+	sw X  (Where X is a whole number from 1 to 30000)
+
+   The LOWER the number the FASTER the game will run.
+
+   As a rough guide, a 286-12 machine should run perfectly using
+
+	sw 50		to begin the game.
+
+   and a 486DX2-66 should run about right using
+
+	sw 500		to begin the game.
+
+   You may have to play around with finding the best value for you.
+
+
+ 13) Changing the difficultly
+ ----------------------------
+   There are two ways to change the level of difficulty.
+
+   Firstly, by changing which team you take charge of, you are affecting how
+   easy or difficult winning will be.  For example, if you choose Durham, you
+   will have a tough job on your hands!
+
+   Secondly, by changing the speed of the game (see above) running between
+   wickets will be more or less difficult. Increasing the speed will probably
+   result in more of your batsmen being run out, since judging when to go for
+   that tight single is that much more difficult.  Try running the game
+   by typing "sw 1" (at the DOS prompt) on a Pentium IV PC!
+
+
+ 14) Troubleshooting / known bugs
+ --------------------------------
+
+   a) Common problem
+
+   Almost all the problems known about this game stem from the fact that it is not
+   possible to run DOS programs from Windows DOS when the executable lies in a
+   folder whose path is more than 64 characters long. If you do happen to run the
+   game from such a folder you will be presented with a message explaining this
+   situation and how to rectify it! No prises for guessing that the solution is based
+   around re-installing the game to a folder with a short path!
+   
+   b) "Unable To Find Data Files!"
+
+   Check that the files exist as specified in section 6 of this document.
+
+   The only other explanation could be if the working directory is set to something
+   other than the folder which contains sw.bat. However, if you are running the
+   sw.bat file from Windows (i.e. by double clicking on the sw.bat icon) then this
+   should always be correct.
+   
+   d) Something else!
+
+   Post your problem on the Yahoo! Group - see end of this document!
+
+
+ 15) How to add new teams
+ ------------------------
+   When you first install this game, there should be 18 team data files in the
+   "teams\" subdirectory. You can add entirely new teams to this directory (up
+   to 36 teams in total). The best way to do this is to copy an existing data
+   file (eg essex.dat) naming it something else (eg myteam.dat). Then use a
+   text editor to rename player names within the file. However, for the
+   game to recognise this new team you need to add a new entry to the
+   sw_teams.dat file.
+
+   The format of this file is as follows:
+
+	[Team1 Name],[Team1 Filename],[1 if selected, or 0 if deselected]
+	[Team2 Name],[Team2 Filename],[1 if selected, or 0 if deselected]
+	....
+	....
+	....
+
+   (Only 8 teams should ever be selected - these are the default 8 teams.)
+
+   Simply add the new team to the end of this file (using a text editor)
+   For example, to add a team called "Superstars" with filename "super.dat"
+   add the following line to the end of sw_teams.dat
+
+	Superstars,super.dat,0
+
+   This will not make the Superstars team one of the default 8 teams. You will
+   have to use the game to change the default 8.
+
+
+ 16) Information on changing player data
+ ----------------------------------------
+   If you decide that you want to change some of the names you can easily
+   change the data files in the "teams\" subdirectory, using a text editor.
+   However, if you do this you must make sure that you have backed up this
+   program in case anything goes wrong.
+
+
+ 17) Information for registered users
+ ------------------------------------
+   This game is no longer shareware so there is no need to register.
+
+   Thank you very much to those (300+!) of you who registered for one or both
+   of my cricket games. Your support is much appreciated.
+
+
+ 18) World Cup Cricket - another cricket game by Mark Carter
+ -----------------------------------------------------------
+   World Cup Cricket is based on international one-day matches played between
+   the nine test playing countries. You choose a team and guide them through a
+   series of international tournaments each with their own unique format. After
+   three tournaments you play in the ultimate competition - the World Cup
+   (thats assuming you qualify, of course). The format of the actual matches is
+   similar to that of its predecessor, Sticky Wicket but with some additional
+   features such as umpire images and advanced strategy within the match
+   situation.
+
+   These are the features:
+
+   * Database of 225 players, 9 teams each with career statistics and batting
+     and bowling abilities
+   * User can take charge of any one of the 9 teams
+   * Seasonal and career averages for your team
+   * World Cup averages for all teams involved
+   * Qualification period of 3 years where England plays in 3 out of 5
+     different events. The "World Cup" is played the following year.
+     (For more info on the tournaments, see 7(i) "The Main Menu"
+   * Unlimited number of seasons
+   * Edited highlights of the game including action shots, LBWs, run outs etc
+   * Match interactivity - when to run, who to bowl, batting order, field
+     placings etc
+   * Your strategy can be changed throughout the match
+   * Comments on the shots played and dismissals
+   * Umpire decisions in response to appeals
+   * Squad selection - pick a squad of 16 from 25 to take to each tournament
+   * Team selection - choose 11 from 16 before each match
+   * 5 different built-in field settings
+   * Save / restore position after each tournament
+   * Career page showing your teams records and comparisons with other teams
+   * Choice of five levels of difficulty
+
+
+ 19) The Sticky Wicket & World Cup Cricket Website and Yahoo! Group
+ ------------------------------------------------------------------
+   The Sticky Wicket & World Cup Cricket website contains all the information
+   you need to know about the games. You can download the latest versions of
+   the games although I am not intending to write any updates.
+
+   Point your web browser to:
+
+   http://cricket.mark.carter.name
+
+   I have also set up a Yahoo! Groups group for discussing both games:
+
+   http://groups.yahoo.com/group/stickywicket
+
+
+ 20) Author contact details
+ --------------------------
+   Please send comments & suggestions to:
+
+   mailto:mark@carter.name
+   http://cricket.mark.carter.name
+
+   ...but bear in mind that this game is no longer being developed...
+
+Enjoy!							       02 November 2002
