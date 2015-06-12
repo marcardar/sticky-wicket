@@ -1,0 +1,66 @@
+.pager {
+	PADDING-RIGHT: 8px; BORDER-TOP: #f0f0f0 1px solid; PADDING-LEFT: 8px; FONT-WEIGHT: bold; MARGIN-BOTTOM: 12px; PADDING-BOTTOM: 8px; COLOR: #666666; PADDING-TOP: 8px; BORDER-BOTTOM: #e0e0e0 1px solid; POSITION: relative; BACKGROUND-COLOR: #f7f7f8
+}
+.pager BIG {
+	COLOR: #c0c0c0
+}
+.pager P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.pager H4 {
+	FONT-SIZE: 1em; MARGIN-BOTTOM: 0.2em; BORDER-BOTTOM: #c0c0c0 1px solid; FONT-FAMILY: Verdana
+}
+.pager FORM.slim {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.pager .summary {
+	MARGIN-TOP: 0.1em; MARGIN-BOTTOM: 0.1em
+}
+.alphas {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; FONT-WEIGHT: bold; PADDING-BOTTOM: 8px; WIDTH: 656px; COLOR: #666666; PADDING-TOP: 8px; BORDER-BOTTOM: #f0f0f0 1px solid; BACKGROUND-COLOR: #f7f7f8
+}
+.pager A {
+	
+}
+.alphas A {
+	BORDER-RIGHT: #f7f7f8 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #f7f7f8 1px solid; PADDING-LEFT: 4px; FONT-WEIGHT: bold; PADDING-BOTTOM: 3px; BORDER-LEFT: #f7f7f8 1px solid; PADDING-TOP: 3px; BORDER-BOTTOM: #f7f7f8 1px solid; LETTER-SPACING: -1px
+}
+.alphas A:hover {
+	BORDER-LEFT-COLOR: #a0e0ff; BORDER-BOTTOM-COLOR: #a0e0ff; BORDER-TOP-COLOR: #a0e0ff; BACKGROUND-COLOR: #f0f0f8; TEXT-DECORATION: none; BORDER-RIGHT-COLOR: #a0e0ff
+}
+.alphas A.current {
+	BORDER-LEFT-COLOR: #90c0f0; BORDER-BOTTOM-COLOR: #90c0f0; BORDER-TOP-COLOR: #90c0f0; BACKGROUND-COLOR: #e0e8f0; BORDER-RIGHT-COLOR: #90c0f0
+}
+.pager A.current:link {
+	COLOR: #303030
+}
+.pager A.current:visited {
+	COLOR: #303030
+}
+.pager A.current:hover {
+	COLOR: #303030
+}
+.pager A.current:active {
+	COLOR: #303030
+}
+.alphas A.current:link {
+	COLOR: #303030
+}
+.alphas A.current:visited {
+	COLOR: #303030
+}
+.alphas A.current:hover {
+	COLOR: #303030
+}
+.alphas A.current:active {
+	COLOR: #303030
+}
+.alphas A.current {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; FONT-WEIGHT: bold! important; BACKGROUND-COLOR: #e0e8f0
+}
+.pager A.current {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; FONT-WEIGHT: bold! important; BACKGROUND-COLOR: #e0e8f0
+}
+.pager A.button {
+	FONT-WEIGHT: bold; COLOR: white; BACKGROUND-COLOR: #0069f2
+}

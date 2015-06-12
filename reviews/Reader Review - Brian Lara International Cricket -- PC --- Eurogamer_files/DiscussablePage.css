@@ -1,0 +1,93 @@
+DIV.discussion {
+	CLEAR: both; PADDING-RIGHT: 24px; PADDING-LEFT: 24px; PADDING-BOTTOM: 8px; MARGIN: 24px 0px; OVERFLOW: hidden; WIDTH: 625px; PADDING-TOP: 8px; BORDER-BOTTOM: #e0e0e0 2px solid; BACKGROUND-COLOR: #f7f7f8
+}
+DIV.discussion H5 {
+	FONT-WEIGHT: normal; FONT-SIZE: 14px; BORDER-BOTTOM: #d0d0d0 1px solid
+}
+FORM.commentForm {
+	MARGIN: 12px 0px
+}
+FORM.commentForm LABEL {
+	DISPLAY: block
+}
+DIV.discussion H4 {
+	FONT-WEIGHT: normal; FONT-SIZE: 17px; COLOR: #666666; FONT-FAMILY: Arial
+}
+P.firstPost {
+	FONT-WEIGHT: bold; MARGIN: 24px 0px
+}
+TABLE.commentList {
+	WIDTH: 577px
+}
+TABLE.commentList TH A {
+	FONT-WEIGHT: bold
+}
+TABLE.commentList TBODY TD {
+	PADDING-RIGHT: 12px; BORDER-TOP: #e0e0e0 1px solid; PADDING-LEFT: 12px; FONT-WEIGHT: normal; PADDING-BOTTOM: 7px; BORDER-LEFT: #d8d8d8 1px solid; PADDING-TOP: 7px; TEXT-ALIGN: left
+}
+TABLE.commentList TBODY TH {
+	PADDING-RIGHT: 12px; BORDER-TOP: #e0e0e0 1px solid; PADDING-LEFT: 12px; FONT-WEIGHT: normal; PADDING-BOTTOM: 7px; BORDER-LEFT: #d8d8d8 1px solid; PADDING-TOP: 7px; TEXT-ALIGN: left
+}
+TABLE.commentList TBODY TR.strip1 TD {
+	BACKGROUND-COLOR: #fafafa
+}
+TABLE.commentList TBODY TR.strip1 TH {
+	BACKGROUND-COLOR: #fafafa
+}
+TABLE.commentList TBODY TR.strip2 TD {
+	BACKGROUND-COLOR: #f6f6f6
+}
+TABLE.commentList TBODY TR.strip2 TH {
+	BACKGROUND-COLOR: #f6f6f6
+}
+TABLE.commentList TBODY TH {
+	FONT-WEIGHT: bold; BORDER-LEFT-WIDTH: 0px; VERTICAL-ALIGN: top; COLOR: #303030
+}
+TABLE.commentList THEAD TH {
+	PADDING-RIGHT: 12px; PADDING-LEFT: 12px; FONT-WEIGHT: bold; FONT-SIZE: 11px; PADDING-BOTTOM: 2px; VERTICAL-ALIGN: bottom; BORDER-LEFT: #c0c0c0 1px solid; COLOR: #606060; PADDING-TOP: 2px; LETTER-SPACING: -1px; TEXT-ALIGN: left
+}
+TABLE.commentList THEAD TH.headerHeader {
+	BORDER-BOTTOM: #c0c0c0 1px solid
+}
+.message {
+	FONT-SIZE: 100%; COLOR: #000000
+}
+.datetime {
+	FONT-WEIGHT: normal; FONT-SIZE: 90%
+}
+.editInfo {
+	MARGIN-TOP: 12px; FONT-WEIGHT: bold
+}
+TABLE.commentList TD TABLE.postOptions TD {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 12px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+.postOptions TR TD {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 12px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+.nologinComments {
+	CLEAR: right; PADDING-RIGHT: 48px; PADDING-LEFT: 48px; FONT-WEIGHT: bold; PADDING-BOTTOM: 12px; MARGIN: 24px 0px; PADDING-TOP: 12px; BORDER-BOTTOM: #e0e0e0 1px solid; BACKGROUND-COLOR: #f7f7f8
+}
+.sexyFooter {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 12px; MARGIN: 24px 0px 24px 48px; PADDING-TOP: 12px; POSITION: relative; HEIGHT: 40px; BACKGROUND-COLOR: #f7f7f7
+}
+.sexyFooter A.infoButt {
+	PADDING-RIGHT: 14px; DISPLAY: block; PADDING-LEFT: 14px; FONT-WEIGHT: bold; LEFT: 24px; BACKGROUND-IMAGE: url(../img/ArticlePage/foot_info_butt.gif); PADDING-BOTTOM: 14px; WIDTH: 154px; PADDING-TOP: 14px; BACKGROUND-REPEAT: no-repeat; POSITION: absolute; TOP: 12px; HEIGHT: 12px
+}
+.sexyFooter A.scrButt {
+	PADDING-RIGHT: 14px; DISPLAY: block; PADDING-LEFT: 14px; FONT-WEIGHT: bold; LEFT: 210px; BACKGROUND-IMAGE: url(../img/ArticlePage/foot_screens_butt.gif); PADDING-BOTTOM: 14px; WIDTH: 154px; PADDING-TOP: 14px; BACKGROUND-REPEAT: no-repeat; POSITION: absolute; TOP: 12px; HEIGHT: 12px
+}
+.sexyFooter A.rrButt {
+	PADDING-RIGHT: 34px; DISPLAY: block; PADDING-LEFT: 14px; FONT-WEIGHT: bold; LEFT: 430px; BACKGROUND-IMAGE: url(../img/ArticlePage/foot_rr_butt.gif); PADDING-BOTTOM: 7px; WIDTH: 134px; PADDING-TOP: 7px; BACKGROUND-REPEAT: no-repeat; POSITION: absolute; TOP: 12px; HEIGHT: 26px
+}
+.sexyFooter A.rrButt:link {
+	COLOR: #69b300
+}
+.sexyFooter A.rrButt:visited {
+	COLOR: #69b300
+}
+.sexyFooter A.rrButt:hover {
+	COLOR: #69b300
+}
+.sexyFooter A.rrButt:active {
+	COLOR: #69b300
+}

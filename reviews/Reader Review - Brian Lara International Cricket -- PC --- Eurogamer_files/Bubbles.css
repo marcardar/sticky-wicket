@@ -1,0 +1,59 @@
+#miniMenu LI.miniMenuItem {
+	POSITION: relative
+}
+#miniMenu .bm-bubble {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; FILTER: 
+	progid:DXImageTransform.Microsoft.Shadow(Color='#000000', Strength=3, Direction=-45)
+	progid:DXImageTransform.Microsoft.Shadow(Color='#000000', Strength=6, Direction=135); LEFT: -10px; BACKGROUND-IMAGE: url(../img/EurogamerPage/Bubbles/bubble_top.gif); PADDING-BOTTOM: 0px; WIDTH: 408px; PADDING-TOP: 130px; BACKGROUND-REPEAT: no-repeat; POSITION: absolute; TOP: 10px
+}
+UNKNOWN {
+	BACKGROUND-IMAGE: url(../img/EurogamerPage/Bubbles/bubble_top-fs8.png)
+}
+#miniMenu .bm-bubble .bm-listWrapper {
+	BACKGROUND-IMAGE: url(../img/EurogamerPage/Bubbles/bubble_bg.gif); WIDTH: 408px; BACKGROUND-REPEAT: repeat-y
+}
+UNKNOWN {
+	BACKGROUND-IMAGE: url(../img/EurogamerPage/Bubbles/bubble_bg-fs8.png)
+}
+#miniMenu .bm-bubble .bm-listFooter {
+	PADDING-RIGHT: 0px; BACKGROUND-POSITION: 50% bottom; PADDING-LEFT: 0px; BACKGROUND-IMAGE: url(../img/EurogamerPage/Bubbles/bubble_bottom.gif); PADDING-BOTTOM: 1px; WIDTH: 408px; PADDING-TOP: 1px; BACKGROUND-REPEAT: no-repeat
+}
+UNKNOWN {
+	BACKGROUND-IMAGE: url(../img/EurogamerPage/Bubbles/bubble_bottom-fs8.png)
+}
+#miniMenu .bm-bubble .bm-listFooter P {
+	BORDER-TOP: #f0f0f0 1px solid; MARGIN: 4px 20px 20px; COLOR: #606060; PADDING-TOP: 8px
+}
+#miniMenu .bm-bubble .bm-listWrapper TABLE {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 20px; WIDTH: 366px; PADDING-TOP: 0px
+}
+#miniMenu .bm-bubble .bm-listWrapper TABLE TD {
+	PADDING-RIGHT: 16px; PADDING-LEFT: 0px; PADDING-BOTTOM: 3px; VERTICAL-ALIGN: top; PADDING-TOP: 3px
+}
+#miniMenu .bm-bubble .bm-listWrapper TABLE TH {
+	PADDING-RIGHT: 16px; PADDING-LEFT: 0px; PADDING-BOTTOM: 3px; VERTICAL-ALIGN: top; PADDING-TOP: 3px
+}
+#miniMenu .bm-bubble .bm-listWrapper TABLE THEAD TH {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #909090; BORDER-BOTTOM: #f0f0f0 1px solid; TEXT-ALIGN: left
+}
+#miniMenu .bm-bubble .bm-listWrapper TABLE TBODY TD {
+	COLOR: #606060
+}
+#miniMenu .bm-bubble UL LI {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 4px 20px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#miniMenu .bm-bubble H4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; PADDING-BOTTOM: 2px; MARGIN: 4px 22px 4px 20px; BORDER-BOTTOM: #c0c0c0 1px solid; FONT-FAMILY: Verdana, sans-serif; LETTER-SPACING: 0px
+}
+#toolBar #miniMenu .bm-bubble A:link {
+	COLOR: #0069f2; TEXT-DECORATION: none
+}
+#toolBar #miniMenu .bm-bubble A:visited {
+	COLOR: #0069f2; TEXT-DECORATION: none
+}
+#toolBar #miniMenu .bm-bubble A:hover {
+	COLOR: #0090ff; TEXT-DECORATION: underline
+}
+#toolBar #miniMenu .bm-bubble A:active {
+	COLOR: #0090ff; TEXT-DECORATION: none
+}

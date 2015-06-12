@@ -1,0 +1,9 @@
+#miniMenu .menuItem A {
+	FONT-WEIGHT: normal
+}
+#miniMenu .forum A {
+	FONT-WEIGHT: bold
+}
+#miniMenu LI.menuItem {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 17px; BACKGROUND-IMAGE: url(../img/EurogamerPage/Bubbles/icon_bubble.gif)
+}

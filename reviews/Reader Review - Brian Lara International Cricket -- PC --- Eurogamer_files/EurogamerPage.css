@@ -1,0 +1,397 @@
+HR {
+	OVERFLOW: hidden
+}
+ HTML .buggybox {
+	HEIGHT: 1%
+}
+ HTML BODY {
+	
+}
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 13px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; FONT-FAMILY: Verdana, sans-serif; BACKGROUND-COLOR: #ffffff
+}
+TD {
+	TEXT-ALIGN: left
+}
+TH {
+	TEXT-ALIGN: left
+}
+A IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+A:link {
+	COLOR: #0069f2; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #0069f2; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #0090ff; TEXT-DECORATION: underline
+}
+A:active {
+	COLOR: #0090ff; TEXT-DECORATION: none
+}
+
+@media Print, Screen    
+{
+.s-hidden {
+	DISPLAY: none
+}
+    }
+P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DIV {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+INPUT {
+	FONT-SIZE: 1em; FONT-FAMILY: Verdana, sans-serif
+}
+BUTTON {
+	FONT-SIZE: 1em; FONT-FAMILY: Verdana, sans-serif
+}
+LABEL {
+	FONT-SIZE: 1em; FONT-FAMILY: Verdana, sans-serif
+}
+TEXTAREA {
+	FONT-SIZE: 1em; FONT-FAMILY: Verdana, sans-serif
+}
+SELECT {
+	FONT-SIZE: 1em; FONT-FAMILY: Verdana, sans-serif
+}
+FORM {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; PADDING-BOTTOM: 4px; MARGIN: 0px; PADDING-TOP: 4px
+}
+FORM.slim {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+INPUT.custom {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BACKGROUND-COLOR: transparent; BORDER-RIGHT-WIDTH: 0px
+}
+BUTTON.custom {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BACKGROUND-COLOR: transparent; BORDER-RIGHT-WIDTH: 0px
+}
+TEXTAREA.custom {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BACKGROUND-COLOR: transparent; BORDER-RIGHT-WIDTH: 0px
+}
+INPUT.button {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; FONT-WEIGHT: bold; PADDING-BOTTOM: 2px; CURSOR: pointer; COLOR: #303030; PADDING-TOP: 2px
+}
+BUTTON.button {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; FONT-WEIGHT: bold; PADDING-BOTTOM: 2px; CURSOR: pointer; COLOR: #303030; PADDING-TOP: 2px
+}
+A.button {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; FONT-WEIGHT: bold; PADDING-BOTTOM: 2px; CURSOR: pointer; COLOR: #303030; PADDING-TOP: 2px
+}
+A.button {
+	
+}
+#browserMaster {
+	TEXT-ALIGN: center
+}
+#pageMaster {
+	FONT-SIZE: 0.85em; MARGIN-LEFT: auto; WIDTH: 980px; MARGIN-RIGHT: auto; POSITION: relative; TEXT-ALIGN: left
+}
+#toolBar {
+	BACKGROUND: url(../img/EurogamerPage/toolbar_bg.gif) no-repeat right top; POSITION: relative; HEIGHT: 26px
+}
+.loggedIn#toolBar SPAN.details {
+	FONT-WEIGHT: bold; COLOR: #4a8400
+}
+.loggedIn#toolBar {
+	PADDING-RIGHT: 16px; PADDING-LEFT: 16px; BACKGROUND: url(../img/EurogamerPage/toolbar_logged_in_bg.gif) no-repeat right top; PADDING-BOTTOM: 4px; PADDING-TOP: 4px; TEXT-ALIGN: right
+}
+.loggedIn#toolBar UL {
+	TEXT-ALIGN: left
+}
+.loggedIn#toolBar B {
+	COLOR: #274200
+}
+.loggedIn#toolBar A:link {
+	COLOR: white
+}
+.loggedIn#toolBar A:visited {
+	COLOR: white
+}
+.loggedIn#toolBar A:hover {
+	COLOR: white
+}
+.loggedIn#toolBar A:active {
+	COLOR: white
+}
+.loggedIn#toolBar A.me:link {
+	COLOR: #277300
+}
+.loggedIn#toolBar A.me:visited {
+	COLOR: #277300
+}
+.loggedIn#toolBar A.me:hover {
+	COLOR: #277300
+}
+.loggedIn#toolBar A.me:active {
+	COLOR: #277300
+}
+#toolBar H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: 11px; LEFT: 13px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #277300; PADDING-TOP: 0px; FONT-FAMILY: Verdana, sans-serif; LETTER-SPACING: 0px; POSITION: absolute; TOP: 6px
+}
+#login {
+	RIGHT: 0px; WIDTH: 490px; POSITION: absolute; TOP: 0px
+}
+#register {
+	RIGHT: 8px; COLOR: white; POSITION: absolute; TOP: 2px
+}
+#register A {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; TEXT-DECORATION: underline
+}
+#register A:link {
+	COLOR: #274200
+}
+#register A:visited {
+	COLOR: #274200
+}
+#register A:hover {
+	COLOR: #274200
+}
+#register A:active {
+	COLOR: #274200
+}
+#register .why {
+	FONT-SIZE: 15px; MARGIN-LEFT: 8px
+}
+#register .why A {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px
+}
+#loginUsername {
+	LEFT: 14px; WIDTH: 82px; COLOR: #606060; POSITION: absolute; TOP: 4px
+}
+#loginPassword {
+	LEFT: 108px; WIDTH: 92px; COLOR: #606060; POSITION: absolute; TOP: 5px
+}
+#loginSubmit {
+	FONT-WEIGHT: bold; LEFT: 202px; WIDTH: 60px; CURSOR: pointer; COLOR: #274200; POSITION: absolute; TOP: 4px
+}
+#forgottenLink {
+	FONT-WEIGHT: normal; LEFT: 270px; POSITION: absolute; TOP: 6px; TEXT-DECORATION: underline
+}
+#miniMenu {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; Z-INDEX: 3; LEFT: 10px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; POSITION: absolute; TOP: 6px
+}
+#miniMenu LI {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; POSITION: relative
+}
+#miniMenu LI.menuItem {
+	PADDING-RIGHT: 17px; PADDING-LEFT: 2px; FONT-WEIGHT: bold; BACKGROUND-REPEAT: no-repeat
+}
+#miniMenu LI A {
+	
+}
+#login A:link {
+	COLOR: #274200
+}
+#login A:visited {
+	COLOR: #274200
+}
+#login A:hover {
+	COLOR: #274200
+}
+#login A:active {
+	COLOR: #274200
+}
+#toolBar #miniMenu LI A:link {
+	COLOR: #274200
+}
+#toolBar #miniMenu LI A:visited {
+	COLOR: #274200
+}
+#toolBar #miniMenu LI A:hover {
+	COLOR: #274200
+}
+#toolBar #miniMenu LI A:active {
+	COLOR: #274200
+}
+#miniMenu #forumLink {
+	FONT-WEIGHT: bold; MARGIN-LEFT: 45px
+}
+#main {
+	Z-INDEX: -1; BACKGROUND: url(../img/EurogamerPage/signpost_none.gif) no-repeat left top; LEFT: 0px; WIDTH: 816px; POSITION: absolute; TOP: 124px; HEIGHT: 400px
+}
+UNKNOWN {
+	
+}
+#extra {
+	RIGHT: 0px; PADDING-BOTTOM: 4em; WIDTH: 160px; POSITION: absolute; TOP: 124px
+}
+#content {
+	LEFT: 143px; WIDTH: 673px; POSITION: absolute; TOP: 11px
+}
+#leftCol {
+	LEFT: 0px; PADDING-BOTTOM: 10em; WIDTH: 139px; POSITION: absolute; TOP: 7px
+}
+#banner {
+	RIGHT: 0px; POSITION: absolute; TOP: 30px
+}
+#egLogo {
+	Z-INDEX: -1; LEFT: 0px; POSITION: absolute; TOP: 30px
+}
+UNKNOWN {
+	
+}
+#search {
+	BORDER-RIGHT: #0014a3 4px solid; Z-INDEX: -1; LEFT: 16px; BACKGROUND-IMAGE: url(../img/EurogamerPage/search_bg.gif); WIDTH: 228px; BACKGROUND-REPEAT: no-repeat; POSITION: absolute; TOP: 97px; HEIGHT: 23px
+}
+UNKNOWN {
+	
+}
+#search INPUT {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BACKGROUND-COLOR: transparent; BORDER-RIGHT-WIDTH: 0px
+}
+#searchTerm {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 3px; WIDTH: 140px; PADDING-TOP: 3px
+}
+#searchSubmit {
+	FONT-WEIGHT: bold; WIDTH: 63px; CURSOR: pointer; COLOR: white
+}
+#nav {
+	FONT-SIZE: 11px; BACKGROUND: url(../img/EurogamerPage/nav_bg.jpg) #7d7d7d repeat-y left top; OVERFLOW: hidden; WIDTH: 139px; PADDING-TOP: 2px; BORDER-BOTTOM: #404040 1px solid; TEXT-ALIGN: right
+}
+#nav UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#nav LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#mainNav LI {
+	BACKGROUND: url(../img/EurogamerPage/link_nav_bottom.jpg) no-repeat left bottom; MARGIN: 4px 0px 4px 4px; VERTICAL-ALIGN: bottom; POSITION: relative
+}
+ HTML #mainNav LI {
+	HEIGHT: 1%
+}
+#mainNav IMG.icon {
+	LEFT: 6px; POSITION: absolute; TOP: 2px
+}
+#mainNav UL LI {
+	PADDING-RIGHT: 12px; MARGIN-TOP: 0px; PADDING-LEFT: 12px; BACKGROUND: no-repeat left top; PADDING-BOTTOM: 0px; WIDTH: auto; PADDING-TOP: 0px
+}
+#mainNav UL {
+	MARGIN-TOP: 0px; PADDING-BOTTOM: 4px; PADDING-TOP: 0px
+}
+#mainNav LI A {
+	PADDING-RIGHT: 8px; DISPLAY: block; PADDING-LEFT: 4px; FONT-WEIGHT: bold; BACKGROUND: url(../img/EurogamerPage/link_nav_top.jpg) no-repeat left top; PADDING-BOTTOM: 6px; VERTICAL-ALIGN: bottom; PADDING-TOP: 6px
+}
+#mainNav UL LI A {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: bottom; LINE-HEIGHT: 1em; PADDING-TOP: 0px
+}
+#mainNav LI.current {
+	BACKGROUND: url(../img/EurogamerPage/link_bg_nav_active.jpg) repeat-y left top
+}
+#mainNav LI.current A {
+	BACKGROUND: url(../img/EurogamerPage/link_nav_active_top.jpg) no-repeat left top
+}
+#mainNav LI.current UL LI A {
+	BACKGROUND: no-repeat left top
+}
+#mainNav LI.current UL {
+	BACKGROUND: url(../img/EurogamerPage/link_active_bottom.jpg) no-repeat left bottom
+}
+#mainNav LI.current UL LI {
+	MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 4px
+}
+#mainNav LI#l-home {
+	MARGIN-BOTTOM: 8px; PADDING-BOTTOM: 2px
+}
+#mainNav LI.current#l-home {
+	MARGIN-BOTTOM: 8px; PADDING-BOTTOM: 0px
+}
+UNKNOWN {
+	PADDING-TOP: 6px
+}
+UL#auxNav {
+	BORDER-TOP: #707070 4px solid; MARGIN-TOP: 12px; MARGIN-BOTTOM: 24px; PADDING-TOP: 12px
+}
+UL#auxNav LI {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; FONT-WEIGHT: bold; FONT-SIZE: 11px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+UL#auxNav LI A {
+	
+}
+#auxNav A:link {
+	COLOR: white; TEXT-DECORATION: none
+}
+#mainNav A:link {
+	COLOR: white; TEXT-DECORATION: none
+}
+#auxNav A:visited {
+	COLOR: white; TEXT-DECORATION: none
+}
+#mainNav A:visited {
+	COLOR: white; TEXT-DECORATION: none
+}
+#auxNav A:hover {
+	COLOR: white; TEXT-DECORATION: underline
+}
+#mainNav A:hover {
+	COLOR: white; TEXT-DECORATION: underline
+}
+#auxNav A:active {
+	COLOR: white; TEXT-DECORATION: none
+}
+#mainNav A:active {
+	COLOR: white; TEXT-DECORATION: none
+}
+#byeBye {
+	BORDER-TOP: #6b6b6a 6px solid; MARGIN-TOP: 4px; BACKGROUND: url(../img/EurogamerPage/stats_bg.gif) #f2f1ef repeat-x left bottom; PADDING-BOTTOM: 0px; OVERFLOW: hidden; POSITION: relative
+}
+#byeBye P.copyright {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; MARGIN: 8px; COLOR: #787878
+}
+#byeBye P.network {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; MARGIN: 8px; COLOR: #606060
+}
+#byeBye P.network A {
+	FONT-WEIGHT: bold
+}
+#byeBye P.stat {
+	FONT-SIZE: 11px; MARGIN: 0px 8px; COLOR: #878787
+}
+#byeBye #byeLinks {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; BACKGROUND: url(../img/EurogamerPage/stats_corner.gif) no-repeat right bottom; PADDING-BOTTOM: 12px; MARGIN: 8px 0px 0px; OVERFLOW: hidden; PADDING-TOP: 12px
+}
+#byeBye #byeLinks LI {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN-RIGHT: 8px; PADDING-TOP: 0px; HEIGHT: 20px
+}
+UNKNOWN {
+	PADDING-LEFT: 8px; BORDER-LEFT: #909090 2px solid
+}
+#byeBye #byeLinks LI A {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px
+}
+.simplyLink IMG {
+	MARGIN-TOP: 8px
+}
+IFRAME.adButton {
+	MARGIN-TOP: 4px
+}
+.comical {
+	VERTICAL-ALIGN: top
+}
+.comical P {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 0px! important; FONT-SIZE: 20px; PADDING-BOTTOM: 0px! important; MARGIN: 0px; PADDING-TOP: 0px! important; FONT-FAMILY: Comic Sans MS, sans-serif
+}
+.comical H2 {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 0px! important; FONT-SIZE: 20px; PADDING-BOTTOM: 0px! important; MARGIN: 0px; PADDING-TOP: 0px! important; FONT-FAMILY: Comic Sans MS, sans-serif
+}
+.comical H3 {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 0px! important; FONT-SIZE: 20px; PADDING-BOTTOM: 0px! important; MARGIN: 0px; PADDING-TOP: 0px! important; FONT-FAMILY: Comic Sans MS, sans-serif
+}
+.comical H4 {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 0px! important; FONT-SIZE: 20px; PADDING-BOTTOM: 0px! important; MARGIN: 0px; PADDING-TOP: 0px! important; FONT-FAMILY: Comic Sans MS, sans-serif
+}
+.comical P {
+	FONT-SIZE: 14px
+}
+#l-rss {
+	MARGIN-TOP: 4px! important; PADDING-TOP: 4px! important; TEXT-ALIGN: right
+}
+#l-rss A {
+	BORDER-RIGHT: #cc6600 2px solid; PADDING-RIGHT: 2px; BORDER-TOP: #ffcc00 2px solid; MARGIN-TOP: 4px; DISPLAY: inline; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; MARGIN-LEFT: auto; BORDER-LEFT: #ffcc00 2px solid; WIDTH: 4em; LINE-HEIGHT: 1em; MARGIN-RIGHT: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: #cc6600 2px solid; BACKGROUND-COLOR: #ff9900
+}

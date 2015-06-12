@@ -1,0 +1,27 @@
+#wayFinder {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; BORDER-BOTTOM: #c0c0c0 1px solid
+}
+DIV.content {
+	
+}
+H1 {
+	FONT-WEIGHT: normal; FONT-SIZE: 2.4em; MARGIN: 0px; FONT-FAMILY: Arial, Helvetica, sans-serif; LETTER-SPACING: -0.03em
+}
+H2 {
+	FONT-WEIGHT: normal; FONT-SIZE: 2.4em; MARGIN: 0px; FONT-FAMILY: Arial, Helvetica, sans-serif; LETTER-SPACING: -0.03em
+}
+H3 {
+	FONT-WEIGHT: normal; FONT-SIZE: 2.4em; MARGIN: 0px; FONT-FAMILY: Arial, Helvetica, sans-serif; LETTER-SPACING: -0.03em
+}
+H4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 17px; MARGIN: 0px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+H5 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; MARGIN: 0px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+H6 {
+	FONT-WEIGHT: bold; FONT-SIZE: 1em; MARGIN: 0px; FONT-FAMILY: Verdana, sans-serif
+}
+DIV.content P {
+	MARGIN: 12px 0px
+}

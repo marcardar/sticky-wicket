@@ -1,0 +1,384 @@
+#content {
+	PADDING-BOTTOM: 100px; WIDTH: 672px
+}
+#wayFinder {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; Z-INDEX: 20; LEFT: 7px; PADDING-BOTTOM: 0px; COLOR: black; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; POSITION: absolute; TOP: 4px; BORDER-BOTTOM-STYLE: none
+}
+#wayFinder A {
+	FONT-WEIGHT: bold
+}
+#wayFinder A:link {
+	COLOR: white
+}
+#wayFinder A:visited {
+	COLOR: white
+}
+#wayFinder A:hover {
+	COLOR: white
+}
+#wayFinder A:active {
+	COLOR: white
+}
+.article {
+	MARGIN-TOP: 1px; BACKGROUND: url(../img/ArticlePage/header_bg.jpg) white no-repeat right top; PADDING-TOP: 85px
+}
+.reader-review {
+	BACKGROUND: url(../img/ArticlePage/header_rr_bg.jpg) white no-repeat right top
+}
+.syndicated-review {
+	BACKGROUND: url(../img/ArticlePage/header_pg_bg.jpg) white no-repeat right top
+}
+.header {
+	LEFT: 0px; WIDTH: 673px; POSITION: absolute; TOP: 0px; HEIGHT: 82px
+}
+.article .header H3 {
+	FONT-SIZE: 26px; LEFT: 14px; WIDTH: 400px; COLOR: white; BOTTOM: 7px; LINE-HEIGHT: 25px; POSITION: absolute
+}
+DIV.article I.type {
+	PADDING-LEFT: 12px; FONT-WEIGHT: normal; FONT-SIZE: 22px; LEFT: 432px; BORDER-LEFT: #909090 1px solid; WIDTH: 200px; COLOR: #606060; BOTTOM: 2px; PADDING-TOP: 20px; FONT-STYLE: normal; LETTER-SPACING: -1px; POSITION: absolute
+}
+DIV.syndicated-review I.type {
+	BORDER-LEFT: white 1px solid; COLOR: white
+}
+.syndicated-review .header .author {
+	COLOR: white
+}
+.syndicated-review .header .author A {
+	COLOR: white
+}
+.extra {
+	FLOAT: left; MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 24px; WIDTH: 174px; MARGIN-RIGHT: 24px
+}
+.extra .affButton {
+	MARGIN-BOTTOM: 4px
+}
+.meta {
+	PADDING-RIGHT: 16px; PADDING-LEFT: 16px; BACKGROUND: url(../img/ArticlePage/meta_info_bg.gif) #f7f7f7 no-repeat left bottom; MARGIN-BOTTOM: 6px; PADDING-BOTTOM: 8px; WIDTH: 142px; PADDING-TOP: 8px
+}
+.extra P {
+	MARGIN-TOP: 8px
+}
+.extra .infoLink {
+	DISPLAY: block; FONT-WEIGHT: bold; MARGIN-BOTTOM: 8px
+}
+.extra .infoLink IMG {
+	VERTICAL-ALIGN: text-bottom
+}
+.extra .date {
+	MARGIN: 8px 0px; COLOR: #606060
+}
+.footer {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 48px; PADDING-BOTTOM: 12px; MARGIN: 24px 0px; PADDING-TOP: 12px; BACKGROUND-COLOR: #f7f7f7
+}
+.footer .infoLink {
+	FONT-WEIGHT: bold; MARGIN-RIGHT: 24px
+}
+.footer .infoLink IMG {
+	VERTICAL-ALIGN: text-bottom
+}
+DIV.copy {
+	MARGIN-TOP: 28px
+}
+DIV.copy P {
+	FONT-SIZE: 1.1em; MARGIN-BOTTOM: 1.5em; MARGIN-LEFT: 48px; LINE-HEIGHT: 1.5em; MARGIN-RIGHT: 24px
+}
+DIV.copy H4 {
+	MARGIN-TOP: 24px; PADDING-LEFT: 48px; FONT-SIZE: 28px; BACKGROUND: url(../img/ArticlePage/section_bg.gif) no-repeat left bottom; MARGIN-BOTTOM: 12px; COLOR: #525252; MARGIN-RIGHT: 24px; FONT-FAMILY: Arial, Helvetica, sans-serif; LETTER-SPACING: -1px
+}
+DIV.copy H5 {
+	MARGIN-TOP: 12px; PADDING-LEFT: 48px; FONT-SIZE: 21px; BACKGROUND: url(../img/ArticlePage/section_bg.gif) no-repeat left bottom; MARGIN-BOTTOM: 12px; COLOR: #525252; MARGIN-RIGHT: 24px; FONT-FAMILY: Arial, Helvetica, sans-serif; LETTER-SPACING: -1px
+}
+DIV.copy DIV.conclusion {
+	BACKGROUND: url(../img/ArticlePage/conclusion_bg.gif) no-repeat left top
+}
+DIV.copy DIV.conclusion H5 {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+DIV.copy H6 {
+	MARGIN-TOP: 12px; PADDING-LEFT: 48px; FONT-SIZE: 14px; MARGIN-BOTTOM: 0px; MARGIN-RIGHT: 24px; FONT-FAMILY: Arial, Helvetica, sans-serif; LETTER-SPACING: -1px
+}
+DIV.copy P.rating {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 48px; FONT-WEIGHT: normal; FONT-SIZE: 38px; PADDING-BOTTOM: 12px; MARGIN: 8px 0px; COLOR: #606060; LINE-HEIGHT: 33px; PADDING-TOP: 4px; FONT-FAMILY: Arial, Helvetica, sans-serif; LETTER-SPACING: 1px
+}
+DIV.copy P.rating BIG {
+	FONT-SIZE: 38px; COLOR: #0069f2; LETTER-SPACING: 2px
+}
+DIV.copy P.rating SMALL BIG {
+	COLOR: #606060
+}
+.rating .userVote {
+	PADDING-LEFT: 1em; FONT-SIZE: 11px; FONT-FAMILY: Verdana, sans-serif; LETTER-SPACING: 0px
+}
+.mpuAd {
+	CLEAR: right; BORDER-RIGHT: #e8e8e8 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #f0f0f0 1px solid; PADDING-LEFT: 4px; FONT-SIZE: 10px; FLOAT: right; PADDING-BOTTOM: 4px; MARGIN: 12px 24px 12px 12px; BORDER-LEFT: #e8e8e8 1px solid; COLOR: #909090; PADDING-TOP: 1px; BORDER-BOTTOM: #d0d0d0 1px solid; LETTER-SPACING: 1px; BACKGROUND-COLOR: #f4f4f7
+}
+.mpuAd DIV {
+	MARGIN-BOTTOM: 2px
+}
+DIV.illustrationPreview {
+	CLEAR: left; PADDING-LEFT: 48px; FLOAT: left; MARGIN: 24px 32px 18px 0px; WIDTH: 262px; POSITION: relative
+}
+DIV.illustrationPreview IMG {
+	BORDER-RIGHT: #303030 1px solid; BORDER-TOP: #303030 1px solid; BORDER-LEFT: #303030 1px solid; BORDER-BOTTOM: #303030 1px solid
+}
+DIV.illustrationPreview A.zoomButt IMG {
+	BORDER-TOP: #c0c0c0 1px solid; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+DIV.illustrationPreview A.galleryButt IMG {
+	BORDER-TOP: #c0c0c0 1px solid; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+DIV.illustrationPreview A.zoomButt {
+	LEFT: 6px; POSITION: absolute
+}
+DIV.illustrationPreview A.galleryButt {
+	LEFT: 6px; POSITION: absolute
+}
+DIV.illustrationPreview A.zoomButt {
+	TOP: 0px
+}
+DIV.illustrationPreview A.galleryButt {
+	TOP: 60px
+}
+DIV.copy DIV.illustrationPreview P.caption {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; FONT-SIZE: 11px; PADDING-BOTTOM: 4px; MARGIN: 0px; WIDTH: 246px; COLOR: white; PADDING-TOP: 4px; FONT-STYLE: italic; BACKGROUND-COLOR: black
+}
+DIV.flowillustration {
+	CLEAR: left; PADDING-LEFT: 48px; FLOAT: left; MARGIN: 24px 32px 18px 0px; POSITION: relative
+}
+DIV.flowillustration IMG {
+	BORDER-RIGHT: #303030 1px solid; BORDER-TOP: #303030 1px solid; BORDER-LEFT: #303030 1px solid; BORDER-BOTTOM: #303030 1px solid
+}
+DIV.flowillustration A.galleryButt {
+	TOP: 60px
+}
+DIV.copy DIV.flowillustration P.caption {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; FONT-SIZE: 11px; PADDING-BOTTOM: 4px; MARGIN: 0px; COLOR: white; PADDING-TOP: 4px; FONT-STYLE: italic; BACKGROUND-COLOR: black
+}
+.header .author {
+	LEFT: 460px; WIDTH: 200px; COLOR: #707070; POSITION: absolute; TOP: 25px
+}
+.header .mugshot {
+	RIGHT: -10px; POSITION: absolute; TOP: -27px
+}
+.tidyChunk {
+	MARGIN-LEFT: 48px
+}
+.tidyChunk H4 {
+	PADDING-LEFT: 18px; FONT-SIZE: 12px; PADDING-TOP: 1px
+}
+.tidyVisible .hideMe {
+	DISPLAY: block
+}
+.tidyInvisible .hideMe {
+	DISPLAY: none
+}
+.tidyVisible H4 {
+	BACKGROUND-IMAGE: url(../img/list/expanded.gif); BACKGROUND-REPEAT: no-repeat
+}
+.tidyInvisible H4 {
+	BACKGROUND-IMAGE: url(../img/list/collapsed.gif); BACKGROUND-REPEAT: no-repeat
+}
+.tidyChunk TABLE {
+	MARGIN-LEFT: 18px; WIDTH: 80%
+}
+.tidyChunk TABLE TH {
+	PADDING-RIGHT: 18px; PADDING-LEFT: 0px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px; TEXT-ALIGN: left
+}
+.tidyChunk TABLE TD {
+	PADDING-RIGHT: 18px; BORDER-TOP: #f0f0f0 1px solid; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px
+}
+.whoistalking {
+	FONT-WEIGHT: bold; COLOR: #000000; LETTER-SPACING: 0px
+}
+.article P.whoistalking {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px
+}
+P.interviewQuestion {
+	FONT-WEIGHT: bold
+}
+P.interviewAnswer {
+	
+}
+P.interviewComment {
+	PADDING-LEFT: 12px; COLOR: #606060; LINE-HEIGHT: 120%; FONT-STYLE: oblique
+}
+TABLE.quiz {
+	CLEAR: both; FLOAT: right; MARGIN-LEFT: 48px
+}
+TABLE.quiz TH {
+	PADDING-RIGHT: 18px; PADDING-LEFT: 0px; PADDING-BOTTOM: 6px; VERTICAL-ALIGN: top; PADDING-TOP: 6px; BORDER-BOTTOM: #e0e0e0 1px solid; TEXT-ALIGN: left
+}
+TABLE.quiz TH.qtitle {
+	PADDING-LEFT: 8px; BACKGROUND-COLOR: #f3f3f3
+}
+TABLE.quiz TH I {
+	FONT-WEIGHT: normal
+}
+TABLE.quiz TD {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; PADDING-BOTTOM: 6px; VERTICAL-ALIGN: top; PADDING-TOP: 6px; BORDER-BOTTOM: #e0e0e0 1px solid
+}
+P.question {
+	CLEAR: left; BORDER-RIGHT: #c0c0c0 1px solid; PADDING-RIGHT: 25px; BORDER-TOP: #c0c0c0 1px solid; PADDING-LEFT: 25px; FONT-SIZE: 24px! important; PADDING-BOTTOM: 12px; MARGIN-LEFT: 20px; BORDER-LEFT: #c0c0c0 1px solid; LINE-HEIGHT: 26px! important; PADDING-TOP: 12px; BORDER-BOTTOM: #c0c0c0 1px solid; FONT-FAMILY: Arial; LETTER-SPACING: -1px; BACKGROUND-COLOR: #f4f4f7
+}
+P.closingDate {
+	FONT-WEIGHT: bold
+}
+SUP.required {
+	FONT-SIZE: 1.2em; COLOR: red
+}
+.quiz SELECT.listbox OPTION.selected {
+	BACKGROUND-COLOR: #f0f0f8
+}
+.quiz .textbox {
+	WIDTH: 200px
+}
+.quiz TEXTAREA.textbox {
+	WIDTH: 200px; HEIGHT: 100px
+}
+.superscript {
+	FONT-SIZE: 80%; POSITION: relative; TOP: -3px
+}
+.copy OL {
+	PADDING-LEFT: 0px; MARGIN-LEFT: 48px
+}
+.copy UL {
+	PADDING-LEFT: 0px; MARGIN-LEFT: 48px
+}
+.copy LI {
+	FONT-SIZE: 1.1em; MARGIN: 8px 0px; LINE-HEIGHT: 1.4em
+}
+.copy LI P {
+	MARGIN: 0px 0px 1.5em
+}
+.extra A.buyLink {
+	MARGIN-TOP: 24px; DISPLAY: block; FONT-WEIGHT: bold
+}
+.extra A.buyLink:link {
+	COLOR: red
+}
+.extra A.buyLink:visited {
+	COLOR: red
+}
+.extra A.buyLink:hover {
+	COLOR: red
+}
+.extra A.buyLink:active {
+	COLOR: red
+}
+.extra A.buyLink IMG {
+	VERTICAL-ALIGN: middle
+}
+.footer A.buyLink {
+	FONT-WEIGHT: bold
+}
+.footer A.buyLink:link {
+	COLOR: red
+}
+.footer A.buyLink:visited {
+	COLOR: red
+}
+.footer A.buyLink:hover {
+	COLOR: red
+}
+.footer A.buyLink:active {
+	COLOR: red
+}
+.footer A.buyLink IMG {
+	VERTICAL-ALIGN: middle
+}
+DIV.copy DIV.introduction P {
+	COLOR: #101010
+}
+DIV.copy DIV.conclusion P {
+	FONT-SIZE: 1.2em; LINE-HEIGHT: 1.3em
+}
+DIV.copy DIV.endnote {
+	BORDER-TOP: #e0e0e0 1px solid
+}
+DIV.copy DIV.endnote P {
+	COLOR: #303030; LINE-HEIGHT: 1.3em; FONT-STYLE: italic
+}
+DIV.copy UL.jim LI {
+	MARGIN-TOP: 0px; DISPLAY: block; MARGIN-BOTTOM: 0px; LIST-STYLE-TYPE: none
+}
+DIV.copy UL.slim LI {
+	DISPLAY: block; FONT-SIZE: 1.2em; FONT-STYLE: italic; FONT-FAMILY: Courier New, Courier, monospace; LIST-STYLE-TYPE: none
+}
+.reader-review .header H3 {
+	FONT-SIZE: 21px; RIGHT: 14px; LEFT: auto; WIDTH: 200px; COLOR: #355c00; BOTTOM: 7px; LINE-HEIGHT: 21px; POSITION: absolute; TEXT-ALIGN: right
+}
+.reader-review .header H4 {
+	FONT-WEIGHT: normal; FONT-SIZE: 26px; LEFT: 14px; WIDTH: 400px; COLOR: white; BOTTOM: 7px; LINE-HEIGHT: 25px; LETTER-SPACING: -1px; POSITION: absolute
+}
+.userScores {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 24px; PADDING-BOTTOM: 12px; MARGIN: 24px 0px 24px 48px; PADDING-TOP: 12px; POSITION: relative; BACKGROUND-COLOR: #f3ffc2
+}
+#content .userScores P {
+	MARGIN: 2px 0px
+}
+#content .userScores P.score {
+	MARGIN-BOTTOM: 24px
+}
+.userScores H5 {
+	FONT-SIZE: 11px; MARGIN: 0px; COLOR: #325900; FONT-FAMILY: Verdana, sans-serif
+}
+.voteStats {
+	LEFT: 300px; POSITION: absolute; TOP: 12px
+}
+.barChart {
+	MARGIN: 6px 0px
+}
+.barChart TBODY TD {
+	VERTICAL-ALIGN: bottom
+}
+.barChart TFOOT TD {
+	BORDER-TOP: #325900 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #325900; TEXT-ALIGN: center
+}
+.barChart TBODY TD IMG {
+	BACKGROUND-COLOR: #325900
+}
+.readerScore {
+	FONT-WEIGHT: bold; FONT-SIZE: 1.2em; COLOR: #325900
+}
+#content DIV.aPager {
+	
+}
+#content P.aPager {
+	CLEAR: right; PADDING-RIGHT: 24px; MARGIN-TOP: 0px; PADDING-LEFT: 24px; FONT-SIZE: 11px; FLOAT: left; PADDING-BOTTOM: 12px; MARGIN-LEFT: 0px; WIDTH: 402px; MARGIN-RIGHT: 0px; PADDING-TOP: 12px; BACKGROUND-COLOR: #f8f8f8
+}
+#content P.lower {
+	MARGIN-LEFT: 48px; WIDTH: 576px; TEXT-ALIGN: right
+}
+#content HR.clearer {
+	CLEAR: left; VISIBILITY: hidden; HEIGHT: 0px; BACKGROUND-COLOR: transparent
+}
+#content P.aPager A {
+	PADDING-LEFT: 20px; FONT-WEIGHT: bold; FONT-SIZE: 14px; FONT-FAMILY: Arial
+}
+#content P.aPager A IMG {
+	VERTICAL-ALIGN: middle
+}
+#content .liveLine {
+	BORDER-TOP: #d0f0d4 1px dashed; PADDING-BOTTOM: 1px; PADDING-TOP: 10px; POSITION: relative
+}
+#content .liveLine P {
+	MARGIN-TOP: 0px; PADDING-LEFT: 6em; MARGIN-BOTTOM: 9px; MARGIN-LEFT: 48px
+}
+#content .liveLine .timestamp {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 1em; LEFT: 48px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #60c060; PADDING-TOP: 0px; POSITION: absolute
+}
+#content .liveWarning {
+	CLEAR: right; BORDER-RIGHT: #90c098 1px solid; PADDING-RIGHT: 16px; BORDER-TOP: #90c098 1px solid; PADDING-LEFT: 16px; FONT-SIZE: 0.9em; FLOAT: left; MARGIN-BOTTOM: 1em; PADDING-BOTTOM: 8px; BORDER-LEFT: #90c098 1px solid; WIDTH: 400px; COLOR: #309030; PADDING-TOP: 8px; BORDER-BOTTOM: #90c098 1px solid; BACKGROUND-COLOR: #f0fff3
+}
+#content .liveWarning P {
+	MARGIN: 0px 0px 1em
+}
+#liveJsNote {
+	DISPLAY: none
+}
+#liveNonJsNote {
+	DISPLAY: block
+}
+IMG.credit {
+	MARGIN-TOP: 1px; FLOAT: right; MARGIN-BOTTOM: 40px; MARGIN-LEFT: 40px
+}
