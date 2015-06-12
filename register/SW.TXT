@@ -1,4 +1,4 @@
-                         S T I C K Y   W I C K E T  version 2.25 (registered)
+		S T I C K Y   W I C K E T  version 2.26 (registered)
  
   CONTENTS
 
@@ -17,6 +17,7 @@
     vi) The 'Sticky Cup'
   8) Changing the speed
   9) Information on changing team and player names
+ 10) Postal and E-mail Addresses
 
 
   1) Intoduction
@@ -54,7 +55,7 @@
 
    The following files should appear on your disk:
          SW      .EXE    - This will start 'Sticky Wicket'
-         STICKY  .DOC    - On-disk Documentation
+         SW	 .TXT    - On-disk Documentation
          WICKET  .DAT    - Data file
          STWICKET.DAT    - Data file (Saved position)
          TEAM    .DAT    - Data file containing team names
@@ -221,7 +222,18 @@
    make sure that you have backed up this program in case anything goes wrong.
    
 
-   Feel free to write in with your comments on 'Sticky Wicket'.
-   
+ 10) Postal and E-mail Addresses
 
+   Feel free to write in with your comments on Sticky Wicket
+
+   Write to:	M J Carter
+		Westmead
+		13 Chestnut Close
+		Amersham
+		Bucks HP6 6EQ
+		England
+
+   E-mail:	mark@westmead.demon.co.uk
+
+								8th April 1995
 
