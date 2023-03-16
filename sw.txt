@@ -502,27 +502,23 @@
    * Choice of five levels of difficulty
 
 
- 19) The Sticky Wicket & World Cup Cricket Website and Yahoo! Group
- ------------------------------------------------------------------
+ 19) The Sticky Wicket & World Cup Cricket Website
+ -------------------------------------------------
    The Sticky Wicket & World Cup Cricket website contains all the information
    you need to know about the games. You can download the latest versions of
    the games although I am not intending to write any updates.
 
    Point your web browser to:
 
-   http://cricket.mark.carter.name
-
-   I have also set up a Yahoo! Groups group for discussing both games:
-
-   http://groups.yahoo.com/group/stickywicket
+   https://cricket.marcardar.com
 
 
  20) Author contact details
  --------------------------
    Please send comments & suggestions to:
 
-   mailto:mark@carter.name
-   http://cricket.mark.carter.name
+   mailto:mark+cricket@marcardar.com
+   https://cricket.marcardar.com
 
    ...but bear in mind that this game is no longer being developed...
 
